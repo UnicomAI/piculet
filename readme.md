@@ -6,10 +6,11 @@
 🚀🚀🚀 Official implementation of **Piculet: Specialized Model-Guided Hallucination Alleviation for MultiModal Large Language Models** in ICIC 2024.
 ![flowchart-piculet.png](flowchart-piculet.png)
 
-- **Authors**: [Kohou Wang*[1]](), [Xiang Liu*^[* denotes these authors contributed equally to this work and should be considered co-first authors.]](), [Zhaoxiang Liu\^[2]](), [Kai Wang](), [Shiguo Lian\^^[`^` denotes corresponding authors]]()
+- **Authors**: Kohou Wang*, Xiang Liu*, Zhaoxiang Liu^, Kai Wang, Shiguo Lian\^
 
-[^1]: These authors contributed equally to this work and should be considered co-first authors.
-[^2]: Corresponding authors
+
+  `* denotes these authors contributed equally to this work and should be considered co-first authors.`
+  `^ denotes Corresponding authors.`
 
 - **Institutes**: AI Innovation Center, China Unicom, Beijing 100013, China; Unicom Digital Technology, China Unicom, Beijing 100013, China
 
