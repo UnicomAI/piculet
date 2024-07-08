@@ -1,0 +1,5 @@
+{"question_id": 34, "image": "COCO_val2014_000000283412.jpg", "text": "Is there a chair in the image?\nAnswer the question using a single word or phrase.", "category": "adversarial"}
+{"question_id": 41, "image": "COCO_val2014_000000265719.jpg", "text": "Is there a fork in the image?\nAnswer the question using a single word or phrase.", "category": "adversarial"}
+{"question_id": 20002897, "image": "COCO_val2014_000000429913.jpg", "text": "Is there a sports ball in the image?\nAnswer the question using a single word or phrase.", "category": "popular"}
+{"question_id": 20002976, "image": "COCO_val2014_000000015738.jpg", "text": "Is there a cup in the image?\nAnswer the question using a single word or phrase.", "category": "popular"}
+{"question_id": 20003000, "image": "COCO_val2014_000000277289.jpg", "text": "Is there a chair in the image?\nAnswer the question using a single word or phrase.", "category": "popular"}

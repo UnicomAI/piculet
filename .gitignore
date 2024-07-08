@@ -1,0 +1,25 @@
+# Virtualenv
+/.venv/
+/venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.ipynb_checkpoints/
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+*.tar
+*.pyc
+
+.idea/
+
+
+# MAC
+*.DS_Store
+
+# big files
+specialized_models_server/detect_server/PaddleDetection-release-2.7/
+specialized_models_server/ocr_server/cudnn-linux-x86_64-8.4.1.50_cuda11.6-archive/

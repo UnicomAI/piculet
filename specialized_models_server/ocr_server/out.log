@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "ocr_server.py", line 43, in <module>
+    from paddleocr import PaddleOCR, draw_ocr
+ModuleNotFoundError: No module named 'paddleocr'
