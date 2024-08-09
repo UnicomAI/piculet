@@ -38,7 +38,7 @@ As POPE, MME and LLaVa-QA90 are all a subset of coco's val2014, so you will need
 
 If you find Piculet useful for your research and applications, please cite using this BibTeX:
 
-```python
+```text
 @article{wang2024piculet,
   title={Piculet: Specialized Models-Guided Hallucination Decrease for MultiModal Large Language Models},
   author={Wang, Kohou and Liu, Xiang and Liu, Zhaoxiang and Wang, Kai and Lian, Shiguo},
