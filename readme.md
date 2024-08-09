@@ -1,9 +1,10 @@
 
 
 
-## Piculet: Specialized Model-Guided Hallucination Alleviation for MultiModal Large Language Models.  
+## [Piculet: Specialized Model-Guided Hallucination Alleviation for MultiModal Large Language Models](https://arxiv.org/pdf/2408.01003).  
 ---
-🚀🚀🚀 Official implementation of **Piculet: Specialized Model-Guided Hallucination Alleviation for MultiModal Large Language Models** in ICIC 2024.
+🚀🚀🚀 Official implementation of **[Piculet: Specialized Model-Guided Hallucination Alleviation for MultiModal Large Language Models](https://arxiv.org/pdf/2408.01003)** in ICIC 2024.
+
 ![flowchart-piculet.png](flowchart-piculet.png)
 
 - **Authors**: Kohou Wang*, Xiang Liu*, Zhaoxiang Liu^, Kai Wang, Shiguo Lian\^
@@ -33,7 +34,18 @@ As POPE, MME and LLaVa-QA90 are all a subset of coco's val2014, so you will need
 - one for LLaVa-vl-1.5's running, installation and running details can be found at [llava's readme](llava/README.md);
   
 
+## Citation
 
+If you find Piculet useful for your research and applications, please cite using this BibTeX:
+
+```python
+@article{wang2024piculet,
+  title={Piculet: Specialized Models-Guided Hallucination Decrease for MultiModal Large Language Models},
+  author={Wang, Kohou and Liu, Xiang and Liu, Zhaoxiang and Wang, Kai and Lian, Shiguo},
+  journal={arXiv preprint arXiv:2408.01003},
+  year={2024}
+}
+```
 
 ## ❤️ Acknowledgments
 - [QWen-VL](https://github.com/QwenLM/Qwen-VL) and [LLaVA](https://github.com/haotian-liu/LLaVA): the baseline models we compared. Thanks for their wonderful work.
